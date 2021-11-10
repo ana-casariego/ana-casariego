@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Data Science Portfolio 
 by Ana Casariego
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This portfolio is a compliation of notebooks which I created for data analysis and machine learning algorithms. It is categorizes by problem type and project. 
 
 ```markdown
 Syntax highlighted code block
